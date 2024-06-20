@@ -1,0 +1,10 @@
+# Ignore virtual environment
+myenv/
+
+# Other common items to ignore
+*.pyc
+__pycache__/
+.env
+.DS_Store
+.idea/
+.vscode/
